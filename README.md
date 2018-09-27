@@ -3,13 +3,13 @@
 
 ## Day1
 
-* What, why, where and how to use Python
-* Resources to explore for better python programming
-* Hello world Program
-* Unix introduction
-* Code versioning using Git
+- What, why, where and how to use Python
+- Resources to explore for better python programming
+- Hello world Program
+- Unix introduction
+- Code versioning using Git
 
-
+    
     sudo apt-get update
     sudo apt-get install python3.6
     sudo apt-get install virtualenv
